@@ -56,6 +56,115 @@ const lessonObservationFeaturesEn: Feature[] = [
     { icon: IconFolder, title: 'Simple Data Management', text: 'Organize all observations securely and clearly in a personal folder structure.' },
 ];
 
+const privacyContentDe = `Stand: Oktober 2025
+
+Wir freuen uns über Ihr Interesse an unserer Web-Applikation BASIS-Unterricht.
+Der Schutz Ihrer personenbezogenen Daten ist uns ein wichtiges Anliegen.
+In dieser Datenschutzerklärung informieren wir Sie darüber, wie wir Personendaten bearbeiten, wenn Sie unsere Website oder Web-App nutzen.
+
+1. Verantwortliche Stelle
+
+Verantwortlich für die Datenbearbeitung im Sinne des Datenschutzgesetzes (DSG):
+Lorenzo Conte
+Schützenhausstrasse 40
+8750 Glarus
+📧 E-Mail: lori@conte.li
+
+2. Grundsätze der Datenbearbeitung
+
+Wir bearbeiten Personendaten im Einklang mit dem Schweizer Datenschutzgesetz (DSG).
+Die Bearbeitung erfolgt nach Treu und Glauben, verhältnismässig und zweckgebunden.
+Es werden nur jene Daten erhoben und bearbeitet, die für den jeweiligen Zweck erforderlich sind.
+
+3. Erhebung und Bearbeitung von Personendaten
+
+Wir bearbeiten Personendaten insbesondere in folgenden Fällen:
+- wenn Sie unsere Web-App BASIS-Unterricht oder die dazugehörige Website nutzen,
+- wenn Sie ein Benutzerkonto erstellen oder sich anmelden,
+- wenn Sie Daten im Rahmen von Beobachtungen, Bewertungen oder Berichten eingeben,
+- wenn Sie mit uns in Kontakt treten (z. B. per E-Mail).
+
+Die dabei bearbeiteten Personendaten können je nach Nutzung umfassen:
+- Identifikationsdaten: Name, Vorname, E-Mail-Adresse, Benutzername, Rolle (z. B. Schulleitung, Lehrperson),
+- Nutzungsdaten: Zeitpunkt des Logins, IP-Adresse, Browserinformationen,
+- Inhaltsdaten: Beobachtungsnotizen, Evaluationsdaten, Kommentare oder hochgeladene Dateien,
+- Kommunikationsdaten: Mitteilungen, Anfragen, Feedback.
+
+4. Zweck der Datenbearbeitung
+
+Personendaten werden ausschliesslich zu folgenden Zwecken bearbeitet:
+- Bereitstellung und Betrieb der Web-App,
+- Verwaltung von Benutzerkonten,
+- Verarbeitung von Unterrichtsbeobachtungen und Auswertungen,
+- Verbesserung der App-Funktionalität und Benutzerfreundlichkeit,
+- Bearbeitung von Support- oder Kontaktanfragen,
+- Sicherstellung der Stabilität, Nachvollziehbarkeit und Sicherheit der Anwendung.
+Eine Bearbeitung zu anderen Zwecken erfolgt nur, wenn sie gesetzlich erlaubt oder ausdrücklich von Ihnen genehmigt ist.
+
+5. Datensicherheit
+
+Wir treffen angemessene technische und organisatorische Massnahmen (TOM), um Ihre Daten vor Verlust, Missbrauch und unbefugtem Zugriff zu schützen.
+Dazu gehören insbesondere:
+- verschlüsselte Datenübertragung (HTTPS / TLS),
+- gesicherte Serverstandorte mit Zugangskontrollen,
+- rollenbasierte Benutzerrechte,
+- regelmässige Sicherheits-Updates und Backups,
+- Zugriff nur durch autorisierte Personen,
+- automatische Löschung personenbezogener Daten nach Wegfall des Bearbeitungszwecks.
+Unsere Sicherheitsmassnahmen werden laufend überprüft und dem Stand der Technik angepasst.
+
+6. Speicherung und Löschung
+
+Personendaten werden nur so lange gespeichert, wie dies für den jeweiligen Zweck erforderlich ist oder gesetzliche Aufbewahrungspflichten bestehen.
+Nach Ablauf dieser Fristen werden die Daten gelöscht oder anonymisiert.
+Technische Logdaten und Sicherungskopien werden in der Regel nach 30 bis 90 Tagen automatisch gelöscht.
+
+7. Weitergabe von Daten an Dritte
+
+Personendaten werden nicht an Dritte verkauft oder weitergegeben.
+Eine Weitergabe erfolgt nur, wenn sie:
+- zur Erfüllung des Vertragszwecks notwendig ist (z. B. Hosting, Wartung oder Support durch beauftragte Dienstleister),
+- gesetzlich vorgeschrieben ist, oder
+- Sie ausdrücklich eingewilligt haben.
+Alle beauftragten Dienstleister sind vertraglich zur Vertraulichkeit und Einhaltung des Datenschutzes verpflichtet.
+
+8. Datenübermittlung ins Ausland
+
+Sofern Personendaten in Länder ausserhalb der Schweiz übermittelt werden, erfolgt dies nur:
+- in Staaten mit einem vom Bundesrat anerkannten angemessenen Datenschutzniveau, oder
+- auf Grundlage geeigneter vertraglicher Garantien (z. B. Standardvertragsklauseln).
+Eine Liste der Länder mit anerkanntem Datenschutzniveau finden Sie auf der Website des Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB).
+
+9. Rechte der betroffenen Personen
+
+Sie haben gemäss Datenschutzgesetz folgende Rechte:
+- Auskunft: Sie können Auskunft darüber verlangen, welche Daten wir über Sie bearbeiten.
+- Berichtigung: Sie können die Korrektur unrichtiger oder unvollständiger Daten verlangen.
+- Löschung: Sie können die Löschung Ihrer Daten beantragen, sofern keine gesetzlichen Pflichten dagegensprechen.
+- Einschränkung/Widerspruch: Sie können bestimmten Bearbeitungen widersprechen.
+- Datenherausgabe: Sie haben das Recht, Ihre Daten in einem gängigen elektronischen Format zu erhalten.
+Anfragen zu diesen Rechten richten Sie bitte an:
+📧 lori@conte.li
+Wir behalten uns vor, zur Identifikation einen geeigneten Nachweis (z. B. Kopie eines amtlichen Ausweises) zu verlangen.
+
+10. Protokollierung und Analyse
+
+Zur Sicherstellung des Betriebs werden technische Protokolldaten (Logs) erfasst, etwa Zeitpunkt des Zugriffs, IP-Adresse, Browsertyp und Fehlermeldungen.
+Diese Informationen dienen ausschliesslich der Systemstabilität, Sicherheit und Fehlersuche.
+Es werden keine personenbezogenen Profile erstellt und kein Tracking zu Werbezwecken durchgeführt.
+
+11. Änderungen dieser Datenschutzerklärung
+
+Wir können diese Datenschutzerklärung jederzeit anpassen.
+Massgeblich ist jeweils die auf der Website veröffentlichte Version mit dem aktuellen Stand-Datum.
+
+12. Kontakt
+
+Lorenzo Conte
+Schützenhausstrasse 40
+8750 Glarus
+📧 lori@conte.li`;
+
 export const TEXTS = {
   de: {
     dashboardTitle: 'Digitale Werkzeuge für eine effiziente Schulleitung',
@@ -67,6 +176,9 @@ export const TEXTS = {
     appDescriptions: {
       'lesson-observation': lessonObservationFeaturesDe,
     },
+    privacyLink: '🛡️ Datenschutzerklärung',
+    privacyTitle: 'Datenschutzerklärung',
+    privacyContent: privacyContentDe,
   },
   en: {
     dashboardTitle: 'Digital Tools for Efficient School Management',
@@ -78,5 +190,8 @@ export const TEXTS = {
     appDescriptions: {
       'lesson-observation': lessonObservationFeaturesEn,
     },
+    privacyLink: '🛡️ Privacy Policy',
+    privacyTitle: 'Privacy Policy',
+    privacyContent: 'The privacy policy is currently only available in German. An English translation will be provided soon.',
   },
 };
